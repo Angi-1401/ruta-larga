@@ -142,7 +142,7 @@ $result = $reporte->mostrar();
             </div>
         </div>
         <div class="col-md-5 text-md-right">
-            <button class="btn btn-success px-4 font-weight-bold shadow btn-new" data-toggle="modal" data-target="#modalFlete">＋ Nuevo Flete</button>
+            <button class="btn btn-success px-4 font-weight-bold shadow btn-new" data-toggle="modal" data-target="#modalFlete">+ Nuevo Flete</button>
         </div>
     </div>
 
